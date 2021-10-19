@@ -22,6 +22,14 @@
 
 ------------------------
 
+## Aprender sobre animaciones y SVG
+
+| Enlace  | Tags  |
+| -------------- | ----- |
+| [CSS animations](https://css-animations.io/) | `Animation`, `SVG`, `CSS`, `Learn` |
+
+------------------------
+
 ## Gente a la que seguir
 
 | CodePen  | Tags  |
