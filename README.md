@@ -1,5 +1,6 @@
 
 # Super Mario Path [Nerdearla 2021](https://nerdear.la/dia3/)
+[Slides de la charla](https://slides.com/carmenansio/super-mario-path/fullscreen)
 
 > Recursos y gente a la que deberías seguir
 
