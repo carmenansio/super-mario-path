@@ -19,6 +19,9 @@
 | [SVGator](https://www.svgator.com/) | `Animation`, `SVG`, `Javascript` |
 | [SVG Artista](https://svgartista.net/) | `Animation`, `SVG`, `Javascript` |
 | [Animista](https://animista.net/) | `Animation`, `SVG`, `Javascript` |
+| [SVG path visualizer](https://svg-path-visualizer.netlify.app/) | `Animation`, `SVG` |
+| [Essential SVG tools](https://andyfitzsimon.com/posts/essential-svg-tools/) | `Animation`, `SVG` |
+
 
 ------------------------
 
@@ -27,6 +30,12 @@
 | Enlace  | Tags  |
 | -------------- | ----- |
 | [CSS animations](https://css-animations.io/) | `Animation`, `SVG`, `CSS`, `Learn` |
+| [Alligator](https://alligator.io/svg/svg-resources/) | `Animation`, `SVG`, `CSS`, `Learn` |
+| [CSS Tricks](https://css-tricks.com/lodge/svg/) | `Animation`, `SVG`, `CSS`, `Learn` |
+| [I hate tomatoes](https://ihatetomatoes.net/svg/) | `Animation`, `SVG`, `CSS`, `Learn` |
+| [MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial) | `Animation`, `SVG`, `CSS`, `Learn` |
+| [SVG on the web](https://svgontheweb.com/) | `Animation`, `SVG`, `CSS`, `Learn` |
+
 
 ------------------------
 
